@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## NOTICE
 
 This repository contains the public FTC SDK for the DECODE (2025-2026) competition season.
@@ -1697,3 +1698,7 @@ Changes include:
  * The API for the Legacy Module and Core Device Interface Module have been updated.
    - Support for encoders with the Legacy Module is now working.
  * The hardware loop has been updated for better performance.
+=======
+# FTC-2025-2026-Robot
+FIRST Tech Challenge robot code for the 2025–2026 season.  Includes TeleOp and Autonomous modes, intake system, and drivetrain control.
+>>>>>>> 2e290f4f9f99f9d1daefe7687d800eb96957ecdb
